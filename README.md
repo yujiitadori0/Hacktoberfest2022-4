@@ -1,2 +1,3 @@
 # Welcome to Hacktoberfest2022 🎉
-./static/logo.png
+<img src ="/static/logo.png" alt ="my cool logo"/>
+
